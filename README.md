@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ewige-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Ewige Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ewige-liebe/) |
+| **Get License** | [Request Licensing for Ewige Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ewige-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fcb2aad03ba7c389d0c26532030221ad4fd4f8546df80714a3c9dab4da62407b` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
