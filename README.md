@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ewige-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Ewige Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ewige-liebe/) |
+| **Get License** | [Obtain a Music License for Ewige Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ewige-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Rote Ampeln sind egal, drücke Gas nur für dich
+> Neon-Lights in der Stadt, Baby, spürst du es nicht?
+> Deine Hand auf mei'm Bein, und der Motor ist laut
+> Bist die Einzige, Babe, der mein Herz jetzt vertraut
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
